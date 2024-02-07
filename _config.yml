@@ -1,0 +1,61 @@
+# Site
+name: 'Christopher Powell'
+description: 'My thoughts and interests'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+baseurl: ''
+# disqus: 'demowebsite'
+email: 'powell.christopher@gmail.com'
+# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+    chris:
+      name:           Chris
+      site:           https://powell-christopher.github.io/
+      avatar:         assets/images/avatar-chris.jpg
+      bio:            "I consider myself a life-long student. Every new day and every new situation is an opportunity to learn and improve myself. <br><br>
+                      On the technical side my foundations lie in Software Engineering and Architecture. I have an affinity for Architecture Patterns, Agile Methodologies, Lean Solutions and Automation. Maintaining and growing my technical skills helps me not only to provide technical direction and solutions, but also to better manage my team of architects and to be better liaise with technical teams. <br><br>
+                      My interests however extend beyond the technical space. I think of myself as a business accelerator. My goal is to maximize value, help achieve company goals and accelerate progress through the use of simple and lean solutions with an eye on constant iterative improvement. I find great satisfaction in my role as an educator, mentor and servant leader. Building effective teams and a positive culture is a critical part of achieving sustainable success.  <br><br>
+                      I am target oriented and love problem solving. I highly value being challenged, having possibilities for personal and professional growth, and having the opportunity to partake in discussion and collaboration to achieve business goals effectively. <br><br>" 
+      miniBio:        "I consider myself a life-long student. Gaining knowledge, learning new skills and problem solving are extremely motivating to me. I enjoy having a target to aim for. My interests are varied and I appreciate opportunities to share what I know and discuss with my peers." 
+      email:          powell.christopher@gmail.com
+      linkedin:       https://www.linkedin.com/in/chrispo/
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: chris
+      avatar: assets/images/avatar-chris.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
