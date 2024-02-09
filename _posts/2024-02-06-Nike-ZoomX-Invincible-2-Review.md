@@ -3,7 +3,7 @@ layout: post
 title: Nike ZoomX Invincible Run Flyknit 2 Review
 date: 2024-02-05 20:00:00
 author: chris
-categories: [Sport]
+categories: ['Sport and Fitness']
 image: assets/images/2024-02-06-Nike-ZoomX-Invincible-2-Review/header.jpg
 tags: [featured, Running]
 ---
