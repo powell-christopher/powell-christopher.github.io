@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is the Role of an Architect
+title: What is the Role of an Architect?
 date: 2024-03-26 20:00:00
 author: chris
 categories: [Technical]
