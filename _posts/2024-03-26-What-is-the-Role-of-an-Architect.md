@@ -55,7 +55,7 @@ This aligns neatly with my belief of what an effective architect should do. Let'
 - An architect is expected to understand the political climate of the enterprise and navigate the politics.
   - This can be very frustrating to junior and established architects alike. The reality is that as the impact of our decisions grows in scale, the group of impacted people grows, and with that, so does the number of challenges.
 
-In my opinion,being cognizant of, practicing, and improving on these disciplines is critical to success in architecture.
+In my opinion, being cognizant of, practicing, and improving on these disciplines is critical to success in architecture.
 
 ---
 
