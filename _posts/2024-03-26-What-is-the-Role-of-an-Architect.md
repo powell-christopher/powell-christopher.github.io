@@ -55,7 +55,7 @@ This aligns neatly with my belief of what an effective architect should do. Let'
 - An architect is expected to understand the political climate of the enterprise and navigate the politics.
   - This can be very frustrating to junior and established architects alike. The reality is that as the impact of our decisions grows in scale, the group of impacted people grows, and with that, so does the number of challenges.
 
-Being cognizant of, practicing, and improving these disciplines is critical to success in architecture.
+In my opinion,being cognizant of, practicing, and improving on these disciplines is critical to success in architecture.
 
 ---
 
@@ -69,4 +69,4 @@ If you found this content valuable, consider following me on socials for more in
 
 ## Acknowledgments
 
-This post draws heavily on concepts from [Fundamentals of Software Architecture: An Engineering Approach](https://www.thoughtworks.com/insights/books/fundamentals-of-software-architecture) by Mark Richards and Neil Ford. Their insightful book provides a comprehensive guide to understanding the role of an architect, and I encourage anyone interested to read it for deeper insights.
+This post draws heavily on concepts from [Fundamentals of Software Architecture: An Engineering Approach](https://www.thoughtworks.com/insights/books/fundamentals-of-software-architecture) by Mark Richards and Neil Ford. Their insightful book provides a comprehensive guide to understanding the role of an architect, and how do approach the job in a structured and repeatable way. I encourage anyone interested in the topic to read it for deeper insights.
