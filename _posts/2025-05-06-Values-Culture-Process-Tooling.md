@@ -4,7 +4,7 @@ title: Values over Culture. Culture over Process. Process over Tooling.
 date: 2025-05-06 20:00:00
 author: chris
 categories: [Technical]
-image: assets/images/2025-05-06-Values-Culture-Process-Tooling/header.png
+image: assets/images/2025-05-06-Values-Culture-Process-Tooling/header.jpg
 tags: [featured, Architecture, Communication, Leadership]
 ---
 
@@ -40,6 +40,11 @@ When facing organizational challenges, it's crucial to assess and address issues
 4. Select tools that enhance and facilitate these processes.
 
 By adhering to this hierarchy, organizations can create a cohesive and effective environment that is resilient to change and aligned in purpose.
+
+<figure>
+  <img src="/assets/images/2025-05-06-Values-Culture-Process-Tooling/fig1.png" alt="Figure 1: A Hierarchy for Organizational Development"/>
+  <figcaption>Figure 1: A Hierarchy for Organizational Development</figcaption>
+</figure>
 
 ### **A Counter Argument**
 
