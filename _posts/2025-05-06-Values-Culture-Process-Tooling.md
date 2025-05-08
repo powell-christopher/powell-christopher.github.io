@@ -8,7 +8,7 @@ image: assets/images/2025-05-06-Values-Culture-Process-Tooling/header.jpg
 tags: [featured, Architecture, Communication, Leadership]
 ---
 
-In the realm of organizational development, it's tempting to address issues by introducing new tools or processes. However, such solutions often treat symptoms rather than root causes. There are not shortcuts to building a resilient and effective organization. Let's discuss...
+In the realm of organizational development, it's tempting to address issues by introducing new tools or processes. However, such solutions often treat symptoms rather than root causes. There are no shortcuts to building a resilient and effective organization. Let's discuss...
 
 ---
 
