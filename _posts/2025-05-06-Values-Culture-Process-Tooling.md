@@ -4,7 +4,7 @@ title: Values over Culture. Culture over Process. Process over Tooling.
 date: 2025-05-06 20:00:00
 author: chris
 categories: [Technical]
-image: assets/images/2025-05-06-Values-Culture-Process-Tooling/header.jpg
+image: assets/images/2025-05-06-Values-Culture-Process-Tooling/header.png
 tags: [featured, Architecture, Communication, Leadership]
 ---
 
